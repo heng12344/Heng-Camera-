@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Heng-Camera",
+  "description": "An advanced image editor that allows users to control objects, people, and camera perspectives within an image using text prompts and intuitive sliders, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
